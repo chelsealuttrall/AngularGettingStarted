@@ -4,5 +4,6 @@ import { Component } from '@angular/core';
   templateUrl: './welcome.component.html'
 })
 export class WelcomeComponent {
-  public pageTitle = 'Welcome';
+  public pageTitle = 'Welcome to The Tool Box';
+  
 }
